@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebRTCServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="rtcserver.war">
+      <element id="artifact" artifact-name="WebRTCServer:war exploded" />
+    </root>
+  </artifact>
+</component>
